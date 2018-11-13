@@ -145,7 +145,11 @@ body {
     left: -300px;
   }
 }
-
+.dropdown-container{
+  display: none;
+  background-color:#fff;
+  padding-left: 8px;
+}
 a.menu{
     font-size: 20px;
 }

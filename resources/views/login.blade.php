@@ -37,7 +37,7 @@
                     <div class="form-group">
                         <input type="password" class="form-control" id="exampleInputPassword1" placeholder="kata sandi">
                     </div>
-                    <a type="submit" class="btn btn-primary btn-block" href="/dashboard">MASUK</a>
+                    <a type="submit" class="btn btn-primary btn-block" href="/base">MASUK</a>
                 </form>
             </section>
         </section>

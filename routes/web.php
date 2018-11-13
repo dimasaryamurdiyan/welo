@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/dashboard', function () {
     return view('header');
 });
+Route::get('/base', function () {
+    return view('base');
+});
